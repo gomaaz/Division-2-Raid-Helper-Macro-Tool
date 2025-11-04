@@ -46,5 +46,5 @@ It provides smart overlays, quick macros, and context-sensitive hotkeys to help 
 
 1. Install [AutoHotkey v2](https://www.autohotkey.com/download/).  
 2. Download this script under releases
-3. Open the skript and change the keymapping to your actual setting ingame.
-4. run the program: an overlay should appear ingame
+3. Open the script with an texteditor and change the keymapping to your actual setting ingame.
+4. run the program while playing division: an overlay should appear ingame.
